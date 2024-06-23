@@ -1,0 +1,7 @@
+ words = {
+           "maa" : "mother",
+            "kursi":"chair",
+            "billi":"cat"
+        } 
+word=input("enter the word you want the meaning of:")
+print(words[word])
