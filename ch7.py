@@ -14,7 +14,7 @@ while(i<11):
 num=int(input("enter number of your choice to see if number is prime or not: \n"))
 for i in range(2, num):
     if(num%i) == 0:
-        print("number is not prime")
+        print("number is not prime beacuse number is not completely divided by zero")
         break
 else:
     print("number is prime")
