@@ -17,7 +17,7 @@ for i in range(2, num):
         print("number is not prime beacuse number is not completely divided by 0")
         break
 else:
-    print("number is prime")
+    print("this number is prime")
 # num=0
 # sum=0
 # while(num<11):
